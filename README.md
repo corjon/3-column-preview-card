@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3-column-card-with-mobilefirst-design-semantic-html-and-flexbox-rjRaeR2NS8)
 - Live Site URL: [Live sit URL](https://corjon.github.io/3-column-preview-card/)
 
 ## My process
